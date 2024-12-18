@@ -1,0 +1,8 @@
+.vscode/
+.vs/
+build/
+old/
+resources/
+CMakeLists.txt.user/
+
+
